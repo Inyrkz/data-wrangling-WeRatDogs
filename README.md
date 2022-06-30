@@ -1,0 +1,2 @@
+# data-wrangling-WeRatDogs
+## Data Gathering I gathered data from three sources. I manually downloaded the twitter archive data, `twitter-archive-enhanced.csv`. I programmatically downloaded the image prediction data, `image-predictions.tsv` using the Python request library. I used the Twitter API to gather data about `favorite count` and `retweet count`.   The `twitter-archive-enhanced.csv` contains data about tweets from `WeRateDogs` from 2015-2017. Here's a preview of the `twitter-archive-enhanced.csv` data
